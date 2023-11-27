@@ -1,0 +1,159 @@
+{
+    "signIn": "Sign In",
+    "@signIn": 
+    {
+        "description": "Sign In to a page"
+    },
+    "email": "Email Address",
+    "@email":{
+        "description": "Your email address."
+    },
+    "validEmail": "Please Enter a Valid Email Address",
+    "@validEmail": {
+        "description":"Please enter your valid email address."
+           },
+    "password": "Password",
+    "@password":{
+        "description":"<PASSWORD>"
+    },
+    "forgotPassword": "Forgot Password",
+        "@forgotPassword":{
+            "description": "Forgot your password?"
+        },
+    "donthaveaccount": "Don't Have an account",
+    "@donthaveaccount":{
+        "description":  "Create new Account"
+        },
+    "signUp": "Sign Up",
+        "@signUp":{
+            "description":"Create New Account"
+        },
+    "next": "Next",
+        "@next":{
+            "description":"Save and Continue"
+            },
+    "enterVerificationCode": "Enter Verification Code",
+        "@enterVerificationCode":{
+                "description":"Please enter the verification code sent to you via SMS or Email."
+            },
+    "sentcode": "Code is sent to Entered email Id",
+    "@sentcode": {
+        "description":"Sent the code or otp"
+    },
+    "enterAnEmail": "Enter an Email Address",
+    "@enterAnEmail": {"description":"Enter valid emailId"
+    },
+    "codeisSentTo": "Code is send to Entered email Id",
+    "@codeisSentTo": {
+        "description":"Code is sent to the entered valid email id"
+        },
+    "editEmail": "Edit Email Address",
+    "@editEmail": {
+        "description":"Click here if you want to edit the email address"
+    },
+    "incorrectPin": "Pin Is Incorrect",
+    "@incorrectPin": {
+        "description":"The pin which was entered is incorrect. Please try again!"
+    },
+    "submit": "Submit",
+    "@submit": {
+        "description":"Submit"
+    },
+    "newPassword": "New Password",
+    "@newPassword": {
+        "description":"Please Enter New Password"
+    },
+    "confirmPassword": "Confirm Password",
+    "@confirmPassword": {
+        "description":"Please Confirm Your Password"
+    },
+    "changePassword": "Change Password",
+    "@changePassword": {
+        "description": "Navigate to Change Password"
+    },
+    "passRequired": "Password is required",
+    "@passRequired": {
+        "description": "Password is mandatory to enter"
+    },
+    "conditionPassword": "Password must be at least 8 characters",
+    "@conditionPassword": {
+        "description":"Password must be at least 8 characters "
+    },
+    "condition2Password": "Password should contain upper,lower,digit and special characters",
+    "@condition2Password": {
+        "description":"Password should contain upper,lower,digit and special characters"
+    },
+    "passNotMatch": "Password doesnot Match",
+    "@passNotMatch": {
+        "description":"Password doesnot Match"
+    },
+    "firstName": "First Name",
+    "@firstName": {
+        "description":"Your First name for hint text"
+    },
+    "lastName": "Last Name",
+    "@lastName": {
+        "description":"Your Last name for hint text"
+    },
+    "gender": "Gender",
+    "@gender": {
+        "description":"Select your gender from dropdown list. hint"
+    },
+    
+    "emailId": "Email Id",
+    "@emailId": {
+        "description":"Enter email id of the user."
+    },
+    "experience": "Experience in Years",
+    "@experience": {
+        "description":"Years Of Experience"
+    },
+    "city": "City",
+    "@city": {
+        "description":"City you live in"
+    },
+    "country": "Country",
+    "@country": {
+        "description":"Choose country where you live"
+        },
+    "systemKnown": "System Known",
+    "@systemKnown": {
+        "description":"Which system do you know?"
+    },
+    "selectLang": "Select Language(s)",
+    "@selectLang": {
+        "description":"Please select language known by you"
+        },
+    "shortBio": "Short Bio",
+    "@shortBio": {
+        "description":"Tell something about yourself"
+        },
+    "termsofUse": "Terms of Use",
+    "@termsofUse": {
+        "description":"Read Terms of use before proceeding further"
+    },
+    "sendRequest": "Send Request",
+    "@sendRequest": {
+        "description":"Click here to send request"
+        },
+    "online": "Online",
+    "@online" : {
+        "description":"User is online or not"
+    },
+    "offline": "Offline",
+    "@offline":{
+            "description":"User is offline or not"
+    },
+    "calls": "Calls",
+    "@calls": {
+        "description":"Available to call"
+    },
+    "chat": "Chat",
+    "@chat": {
+        "description":"Available to chat"
+    },
+    "boostMyProfile": "Boost My File",
+    "@boostMyProfile": {
+        "description":"Boost your profile for more visibility"
+        }
+}
